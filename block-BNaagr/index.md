@@ -7,3 +7,6 @@ Deploy a node or react application on Digitalocean/AWS cloud and share the publi
 ##### Note:-
 
 Additionally use a domain name, where above application should be hosted.
+
+
+http://localhost:3000/
